@@ -1,1 +1,1 @@
-# netverify
+# netverify es una aplicación hecha en código Python con la función de monitorear la conexión y la desconexión de internet. realiza un ping a un servidor dns (1.1.1.1) y genera un archivo .log de la actividad.
